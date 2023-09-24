@@ -5,3 +5,7 @@ function git() {
 function goodby() {
 	// ...
 }
+function please() {
+	
+}
+
