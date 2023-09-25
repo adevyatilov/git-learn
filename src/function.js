@@ -6,7 +6,7 @@ function goodby() {
 	// ...
 }
 function please() {
-	
+	// ...
 }
 
 function noplease() {
