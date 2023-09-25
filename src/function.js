@@ -9,3 +9,7 @@ function please() {
 	
 }
 
+function noplease() {
+	// ...
+}
+
