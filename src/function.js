@@ -6,6 +6,6 @@ function goodby() {
 	// ...
 }
 function please() {
-	
+	// ...
 }
 
